@@ -17,7 +17,7 @@ Built for MSPs, in-house IT teams, and network engineers who need professional d
 ## Learn more
 
 - **Website:** [aedntech.com](https://aedntech.com)
-- **REST API examples:** [netdoc-api-examples](https://github.com/aedntechnologies/netdoc-api-examples)
+- **REST API examples:** [netdoc-api-examples](https://github.com/Aedn-Technologies/netdoc-api-examples)
 - **Contact:** hello@aedntech.com
 
 ## A note on this organisation
